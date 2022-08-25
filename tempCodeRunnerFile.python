@@ -1,0 +1,8 @@
+#Days = ['Mon', 'Tues', 'Wednes', 'Thrus', 'fri', 'Satur' , 'Sun']
+#for day in Days:
+ #day = day
+#print(Days + day) #
+Days = ("Mon")
+A = ("day") 
+for A in Days [2:]:
+    print(Days+A) 

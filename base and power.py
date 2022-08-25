@@ -1,0 +1,5 @@
+print("welcome")
+base = int(input("Enter the base "))
+power = int(input("Enter the power "))
+integer = (base**power) 
+print(integer)
